@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 9",
+    "brand": "Apple",
+    "price": 399.99,
+    "features": ["Heart Rate Monitor", "ECG", "GPS", "Water Resistant"],
+    "batteryLife": "18 hours",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect width='100' height='100' rx='20' fill='black'/><circle cx='50' cy='50' r='30' fill='white'/></svg>"
+  },
+  {
+    "id": 2,
+    "name": "Samsung Galaxy Watch 6",
+    "brand": "Samsung",
+    "price": 349.99,
+    "features": ["Sleep Tracking", "Body Composition", "Bluetooth Calling", "Fitness Tracking"],
+    "batteryLife": "40 hours",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='45' fill='gray'/><rect x='30' y='45' width='40' height='10' fill='white'/></svg>"
+  },
+  {
+    "id": 3,
+    "name": "Garmin Venu 2 Plus",
+    "brand": "Garmin",
+    "price": 449.99,
+    "features": ["Voice Assistant", "Pulse Oximeter", "Onboard Music", "Multi-GNSS"],
+    "batteryLife": "9 days",
+    "inStock": false,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='40' stroke='blue' stroke-width='5' fill='lightblue'/></svg>"
+  },
+  {
+    "id": 4,
+    "name": "Fitbit Versa 4",
+    "brand": "Fitbit",
+    "price": 229.95,
+    "features": ["Sleep Score", "Daily Readiness", "Alexa Built-in", "Stress Management"],
+    "batteryLife": "6+ days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect width='100' height='100' fill='darkblue'/><circle cx='50' cy='50' r='35' fill='skyblue'/></svg>"
+  },
+  {
+    "id": 5,
+    "name": "Amazfit GTR 4",
+    "brand": "Amazfit",
+    "price": 199.99,
+    "features": ["Dual-Band GPS", "150+ Sports Modes", "Voice Control", "Offline Maps"],
+    "batteryLife": "14 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='40' fill='red'/><line x1='50' y1='50' x2='80' y2='20' stroke='white' stroke-width='4'/></svg>"
+  },
+  {
+    "id": 6,
+    "name": "Huawei Watch GT 3 Pro",
+    "brand": "Huawei",
+    "price": 329.99,
+    "features": ["SpO2 Monitor", "Long Battery", "ECG", "Diving Mode"],
+    "batteryLife": "14 days",
+    "inStock": false,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='45' fill='silver'/></svg>"
+  },
+  {
+    "id": 7,
+    "name": "TicWatch Pro 5",
+    "brand": "Mobvoi",
+    "price": 299.99,
+    "features": ["Dual Display", "Google Assistant", "Wear OS", "Heart Monitoring"],
+    "batteryLife": "80 hours",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect x='10' y='10' width='80' height='80' rx='15' fill='black'/><circle cx='50' cy='50' r='25' fill='white'/></svg>"
+  },
+  {
+    "id": 8,
+    "name": "Realme Watch 3 Pro",
+    "brand": "Realme",
+    "price": 89.99,
+    "features": ["Bluetooth Calling", "GPS", "Weather Updates", "Fitness"],
+    "batteryLife": "10 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect width='100' height='100' fill='green'/><circle cx='50' cy='50' r='30' fill='white'/></svg>"
+  },
+  {
+    "id": 9,
+    "name": "Noise ColorFit Ultra 3",
+    "brand": "Noise",
+    "price": 129.99,
+    "features": ["AMOLED Display", "BT Calling", "Sports Modes", "Weather"],
+    "batteryLife": "7 days",
+    "inStock": false,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect width='100' height='100' fill='purple'/><circle cx='50' cy='50' r='28' fill='white'/></svg>"
+  },
+  {
+    "id": 10,
+    "name": "OnePlus Watch 2",
+    "brand": "OnePlus",
+    "price": 249.99,
+    "features": ["Dual Engine Architecture", "Military Durability", "Dual Frequency GPS"],
+    "batteryLife": "100 hours",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='35' fill='gray'/><text x='35' y='55' font-size='12' fill='white'>1+</text></svg>"
+  },
+  {
+    "id": 11,
+    "name": "Zeblaze Vibe 7 Pro",
+    "brand": "Zeblaze",
+    "price": 59.99,
+    "features": ["Rugged Design", "24/7 Health", "Outdoor Sport Modes"],
+    "batteryLife": "15 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='40' fill='orange'/></svg>"
+  },
+  {
+    "id": 12,
+    "name": "Fossil Gen 6",
+    "brand": "Fossil",
+    "price": 299.00,
+    "features": ["Wear OS", "SpO2", "Snapdragon 4100+", "Fast Charging"],
+    "batteryLife": "24 hours",
+    "inStock": false,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect x='20' y='20' width='60' height='60' rx='10' fill='brown'/></svg>"
+  },
+  {
+    "id": 13,
+    "name": "Boat Xtend Smartwatch",
+    "brand": "boAt",
+    "price": 39.99,
+    "features": ["Alexa Built-in", "SpO2", "Multiple Watch Faces"],
+    "batteryLife": "7 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='38' fill='teal'/></svg>"
+  },
+  {
+    "id": 14,
+    "name": "Fire-Boltt Visionary",
+    "brand": "Fire-Boltt",
+    "price": 49.99,
+    "features": ["BT Calling", "1.78-inch AMOLED", "Sports Modes"],
+    "batteryLife": "5 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='35' fill='darkred'/></svg>"
+  },
+  {
+    "id": 15,
+    "name": "Pebble Cosmos Luxe",
+    "brand": "Pebble",
+    "price": 59.00,
+    "features": ["Metal Body", "Voice Assistant", "SpO2 Monitor"],
+    "batteryLife": "7 days",
+    "inStock": false,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect width='100' height='100' fill='navy'/><circle cx='50' cy='50' r='30' fill='white'/></svg>"
+  },
+  {
+    "id": 16,
+    "name": "Dizo Watch R Talk",
+    "brand": "Dizo",
+    "price": 69.99,
+    "features": ["BT Calling", "AMOLED Display", "Always On Display"],
+    "batteryLife": "10 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='40' fill='pink'/></svg>"
+  },
+  {
+    "id": 17,
+    "name": "Boult Drift",
+    "brand": "Boult",
+    "price": 39.99,
+    "features": ["IP68", "120+ Sports Modes", "Health Monitoring"],
+    "batteryLife": "10 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect width='100' height='100' fill='maroon'/><circle cx='50' cy='50' r='30' fill='white'/></svg>"
+  },
+  {
+    "id": 18,
+    "name": "Titan Smart 2",
+    "brand": "Titan",
+    "price": 79.99,
+    "features": ["AMOLED", "Stress Monitoring", "Female Health Tracker"],
+    "batteryLife": "7 days",
+    "inStock": false,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><rect x='10' y='10' width='80' height='80' rx='20' fill='black'/></svg>"
+  },
+  {
+    "id": 19,
+    "name": "Helix Smart 2.0",
+    "brand": "Timex",
+    "price": 49.95,
+    "features": ["Body Temperature", "Social Media Alerts", "Hydration Reminder"],
+    "batteryLife": "5 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='32' fill='steelblue'/></svg>"
+  },
+  {
+    "id": 20,
+    "name": "Crossbeats Ignite S4",
+    "brand": "Crossbeats",
+    "price": 89.00,
+    "features": ["Bluetooth Calling", "Split Screen", "Metal Body"],
+    "batteryLife": "7 days",
+    "inStock": true,
+    "image": "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='100' height='100'><circle cx='50' cy='50' r='40' fill='gold'/></svg>"
+  }
+]
